@@ -1,0 +1,15 @@
+D:\cSharp\Array soring\bin\Debug\net7.0\Array soring.exe
+D:\cSharp\Array soring\bin\Debug\net7.0\Array soring.deps.json
+D:\cSharp\Array soring\bin\Debug\net7.0\Array soring.runtimeconfig.json
+D:\cSharp\Array soring\bin\Debug\net7.0\Array soring.dll
+D:\cSharp\Array soring\bin\Debug\net7.0\Array soring.pdb
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.csproj.AssemblyReference.cache
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.AssemblyInfoInputs.cache
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.AssemblyInfo.cs
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.csproj.CoreCompileInputs.cache
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.dll
+D:\cSharp\Array soring\obj\Debug\net7.0\refint\Array soring.dll
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.pdb
+D:\cSharp\Array soring\obj\Debug\net7.0\Array soring.genruntimeconfig.cache
+D:\cSharp\Array soring\obj\Debug\net7.0\ref\Array soring.dll

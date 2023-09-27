@@ -1,0 +1,15 @@
+D:\cSharp\PrimeNum\bin\Debug\net7.0\PrimeNum.exe
+D:\cSharp\PrimeNum\bin\Debug\net7.0\PrimeNum.deps.json
+D:\cSharp\PrimeNum\bin\Debug\net7.0\PrimeNum.runtimeconfig.json
+D:\cSharp\PrimeNum\bin\Debug\net7.0\PrimeNum.dll
+D:\cSharp\PrimeNum\bin\Debug\net7.0\PrimeNum.pdb
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.csproj.AssemblyReference.cache
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.AssemblyInfoInputs.cache
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.AssemblyInfo.cs
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.csproj.CoreCompileInputs.cache
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.dll
+D:\cSharp\PrimeNum\obj\Debug\net7.0\refint\PrimeNum.dll
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.pdb
+D:\cSharp\PrimeNum\obj\Debug\net7.0\PrimeNum.genruntimeconfig.cache
+D:\cSharp\PrimeNum\obj\Debug\net7.0\ref\PrimeNum.dll
