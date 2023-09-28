@@ -1,5 +1,4 @@
-﻿void primeNum()
-{
+﻿while (true) {
 	try
 	{
 		long num1, num2;
@@ -58,11 +57,11 @@
 				Console.WriteLine(i);
 			}
 		}
+		break;
 	}
 	catch
 	{
 		Console.WriteLine("Введенное значение не является числом, либо выходит за возможный диапазон.");
-		primeNum();
+		continue;
 	}
 }
-primeNum();
