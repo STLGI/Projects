@@ -1,8 +1,7 @@
 ﻿double num1, num2;
 string? symb;
 
-void calc()
-{
+while (true) { 
 	try
 	{
 		Console.WriteLine("Введите первое число: ");
@@ -14,7 +13,7 @@ void calc()
 		if(num2 == 0 && symb == "/")
 		{
 			Console.WriteLine("Делить на 0 нельзя!");
-			calc();
+			continue;
 
 		}
 		switch (symb)
@@ -33,17 +32,17 @@ void calc()
 				break;
 			default:
 				Console.WriteLine("Вы ввели недопустимый символ операции");
-				calc();
-				break;
+				continue;
 
 		}
+		break;
 	}
 	catch
 	{
 		Console.WriteLine("Введенный параметр не является числом, либо выходит за допустимое значение.");
-		calc();
+		continue;
 	}
 }
-calc();
+
 
 
