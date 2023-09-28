@@ -2,8 +2,7 @@
 
 long amount, pos = 0, num, check = 0;
 string? input, perm = "";
-void arraySort()
-{
+while (true) { 
 	try
 	{
 		//Получаем количество элементов массива
@@ -16,8 +15,7 @@ void arraySort()
 		if (amount <= 0)
 		{
 			Console.WriteLine("Введенное количество элементов массива должно быть больше 0. \n");
-			arraySort();
-			Environment.Exit(0);
+			continue;
 
 		}
 		long[] array = new long[amount];
@@ -50,8 +48,7 @@ void arraySort()
 		if(check != amount - 1)
 		{
 			Console.WriteLine("Вы ввели слишком мало элементов. \n");
-			arraySort();
-			Environment.Exit(0);
+			continue;
 		}
 
 		//Сортируем массив
@@ -71,27 +68,25 @@ void arraySort()
 		}
 
 		//Выводим массив
+		Console.WriteLine("Отсортированный массив: ");
 
 		for (int i = 0; i < amount; i++)
 		{
 			Console.WriteLine(array[i]);
 		}
-
+		break;
 	}
 
 	catch (System.IndexOutOfRangeException)
 	{
 		Console.WriteLine("Вы ввели слишком много элементов.\n");
-		arraySort();
-		Environment.Exit(0);
+		continue;
 	}
 	catch (System.FormatException)
 	{
 		Console.WriteLine("Введенное вами значение не является числом. \n");
-		arraySort();
-		Environment.Exit(0);
+		continue;
 	}
 
-Console.WriteLine("Отсортированный массив: ");
+
 }
-arraySort();
