@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ma8MeVR01L+4it7TLB6snddpLyQQX8C4lV1wC64/L4FY8A1Z5LBAJJsL7wheaRgW411orTzK7jPWCfXMkCri/Q==",
+  "dgSpecHash": "LdP3lkz1NHIA175tzF6WU/6oKPCjo+IGO02C+jcIkUOOHin5NMfvHTstaE3kyCi9hj8acl6Q924SO17ywS8MWQ==",
   "success": true,
-  "projectFilePath": "D:\\cSharp\\PrimeNum\\PrimeNum.csproj",
+  "projectFilePath": "C:\\Users\\lstas\\Desktop\\C#\\Projects\\PrimeNum\\PrimeNum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
